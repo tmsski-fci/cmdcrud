@@ -1,10 +1,8 @@
 # cmdcrud
 
-Aplicação CRUD com interface via linha de comando.
+Projeto inicial para a implementação em aula de uma aplicação CRUD com interface via linha de comando utilizando SPRING BOOT.
 
-Esta aplicação foi desenvolvida utilizando SPRING BOOT.
-
-O arquivo `src/main/resources/application.properties` está configurado supondo que:
+O projeto está configurado supondo que:
 
 * O banco de dados que se quer acessar é o MySQL.
 
