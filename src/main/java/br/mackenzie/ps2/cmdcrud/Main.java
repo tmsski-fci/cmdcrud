@@ -1,11 +1,11 @@
-package ps2.aula7;
+package br.mackenzie.ps2.cmdcrud;
 
 import java.util.Optional;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.beans.factory.annotation.Autowired;
-import static ps2.utils.ES.*;
+import static br.mackenzie.ps2.utils.ES.*;
 
 @SpringBootApplication
 public class Main 

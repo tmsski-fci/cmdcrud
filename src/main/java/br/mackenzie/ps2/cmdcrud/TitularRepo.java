@@ -1,4 +1,4 @@
-package ps2.aula7;
+package br.mackenzie.ps2.cmdcrud;
 
 import org.springframework.data.repository.CrudRepository;
 

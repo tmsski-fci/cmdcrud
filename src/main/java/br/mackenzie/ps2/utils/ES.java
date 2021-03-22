@@ -1,4 +1,4 @@
-package ps2.utils;
+package br.mackenzie.ps2.utils;
 
 import java.util.Scanner;
 public class ES {

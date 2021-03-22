@@ -1,4 +1,4 @@
-package ps2.aula7;
+package br.mackenzie.ps2.cmdcrud;
 
 import javax.persistence.Entity;
 import javax.persistence.Table;
